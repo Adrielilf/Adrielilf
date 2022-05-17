@@ -9,7 +9,7 @@
 
 <div>
  <h3> Tenho 26 anos.
- <h3> Moro em Cascavel-Pr
+ <h3> Moro em Cascavel-Pr.
  <h3> Estou iniciando no mundo da programação.
 </div>
 
