@@ -17,25 +17,10 @@
   <a href="https://www.linkedin.com/in/adrielilf/" target="_blank"><img width="30" height="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" target="_blank"></a> 
   <a href="mailto:adritti@hotmail.com"><img width="30" height="30" src="https://cdn-icons-png.flaticon.com/512/552/552486.png" target="_blank"></a>
 </div>
-
-<div align="center">
-<h1>💻    Github Status </h1>
-</div>
-
-<div style="display: inline_block" align="center">
- 
-   <a href="https://github.com/Adritti2911">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Adritti2911&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adritti2911&theme=radical&hide_border=false&&layout=compact"/>
-  </a>
-</div>
   
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
- <br/>
-<div align="center">
+ </div>
