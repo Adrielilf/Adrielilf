@@ -8,9 +8,19 @@
 </div>
 
 <div>
- <h3> Tenho 26 anos.
  <h3> Moro em Cascavel-Pr.
- <h3> Estou iniciando no mundo da programação.
+ <h3> Sou Programadora iniciante, tenho experiencia em :
+</div>
+  
+<div style="display: inline_block"><br>
+  <img alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+  
+<div>
+ <h3>Parcerias em projetos colaborativos, oportunidades e mais informações...
 </div>
 
 <div>
@@ -23,9 +33,4 @@
   [![Adritti2911 GitHub stats](https://github-readme-stats.vercel.app/api?username=Adritti2911&show_icons=true&theme=github_dark)](https://github.com/Adritti2911/github-readme-stats)
   
   
-<div style="display: inline_block"><br>
-  <img alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- </div>
+
