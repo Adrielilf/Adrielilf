@@ -30,7 +30,7 @@
   
 <br> 
   
-  [![Adritti2911 GitHub stats](https://github-readme-stats.vercel.app/api?username=Adritti2911&show_icons=true&theme=github_dark)](https://github.com/Adritti2911/github-readme-stats)
+  [![Adritti2911 GitHub stats](https://github-readme-stats.vercel.app/api?username=Adritti2911&show_icons=true&theme=github_dark)](https://github.com/Adritti2911/github-readme-stats)]
   
   
 
