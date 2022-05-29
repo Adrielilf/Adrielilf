@@ -9,7 +9,7 @@
 
 <div>
  <h3> Moro em Cascavel-Pr.
- <h3> Sou Programadora iniciante, tenho experiencia em :
+ <h3> Sou Programadora Front End iniciante, tenho experiencia em :
 </div>
   
 <div style="display: inline_block"><br>
