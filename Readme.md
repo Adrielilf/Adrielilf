@@ -30,7 +30,7 @@
   
 <br> 
   
-  [![Adrielilf GitHub stats](https://github-readme-stats.vercel.app/api?username=Adrielilf&show_icons=true&theme=github_dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=Adrielilf&layout=compact&langs_count=16&theme=github_dark)]
+  [![Adrielilf GitHub stats](https://github-readme-stats.vercel.app/api?username=Adrielilf&show_icons=true&theme=github_dark)(https://github-readme-stats.vercel.app/api/top-langs/?username=Adrielilf&layout=compact&langs_count=16&theme=github_dark)
   
   
 
