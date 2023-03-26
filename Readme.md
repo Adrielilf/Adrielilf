@@ -13,10 +13,11 @@
 </div>
   
 <div style="display: inline_block"><br>
+ <img alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
 </div>
   
 <div>
@@ -26,6 +27,7 @@
 <div>
   <a href="https://www.linkedin.com/in/adrielilf/" target="_blank"><img width="40" height="40" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" target="_blank"></a> 
   <a href="mailto:adritti@hotmail.com"><img width="40" height="40" src="https://cdn-icons-png.flaticon.com/512/552/552486.png" target="_blank"></a>
+ <a href="https://linkr.bio/AdrieliLF"><img width="40" height="40" src="https://cdn-icons-png.flaticon.com/512/6994/6994770.png" target="_blank"></a>
 </div>
   
 <br> 
